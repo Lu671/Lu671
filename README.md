@@ -2,6 +2,7 @@
 
 I'm a fresh CS graduate passionate about technology and continuously improving my skills.
 
+- 🔭 I’m currently developing machine learning models, exploring data analysis techniques, and building websites using Django.
 
 <!--
 **Lu671/Lu671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
