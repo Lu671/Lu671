@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Lulu!
+
+I'm a fresh CS graduate passionate about technology and continuously improving my skills.
+
 
 <!--
 **Lu671/Lu671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
