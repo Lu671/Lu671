@@ -1,8 +1,11 @@
-## Hi there 👋 I'm Lulu!
+## Hi there 👋 
+## I'm Lulu!
 
 I'm a fresh CS graduate passionate about technology and continuously improving my skills.
 
-- 🔭 I’m currently honing my skills by developing machine learning models, analyzing data, and building websites using Django.
+📊 I’m improving my expertise in analyzing data.
+🔭 I’m enhancing my skills by developing machine learning models.
+🌐 I’m building websites using Django to strengthen my web development abilities.
 <!--
 **Lu671/Lu671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
