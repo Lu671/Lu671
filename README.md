@@ -1,13 +1,13 @@
 # Hi there 👋 
 ## I'm Lulu!
 
-I'm a fresh CS graduate passionate about technology and continuously improving my skills.
+I'm a CS graduate passionate about technology and continuously improving my skills.
 
 📊 I’m improving my expertise in analyzing data.
 
 🔭 I’m advancing my skills by developing machine learning models.
 
-🌐 I’m enhancing my web development abilities by building websites with Django.
+🌐 I’m enhancing my web development abilities by building websites with Django and ASP.NET.
 <!--
 **Lu671/Lu671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
